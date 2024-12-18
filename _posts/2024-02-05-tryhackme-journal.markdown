@@ -6,8 +6,8 @@ img: tryhackme.png
 alt: image-alt
 
 # Add the link to your journal below
-project-url: 
+project-url: https://docs.google.com/document/d/1y4zrP5HEbsS-PIzh59irgHKCSTfp3QEGEXMTCYzHb58/edit?usp=sharing
 
 # Once you've completed your project, update the 'description' below to this one: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
-description: Can't hack this, there's nothing here! Coming Soon!
+description: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
 ---

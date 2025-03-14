@@ -6,8 +6,9 @@ img: sql.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: 
+project-url: https://drive.google.com/file/d/1X9WoXsXoYxIgc3RTGAMH1sclujMk9Asu/view?usp=sharing
 
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: We're sorry, your database is in another castle! Coming Soon!
+# Placeholder text: We're sorry, your database is in another castle! Coming Soon! 
+# Template description for SQL Joins project: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables. 
+description: Implemented various SQL operators (AND, OR, NOT) in MariaDB to retrieve data from multiple tables, filtering for multiple conditions.
 ---

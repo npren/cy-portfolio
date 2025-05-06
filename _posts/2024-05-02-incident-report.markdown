@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 0
 title: Incident Report
 img: incident.png
 alt: image-alt

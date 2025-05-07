@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: Incident Handlers Journal
+title: New Project Documentation
 img: project.png
 alt: image-alt
 

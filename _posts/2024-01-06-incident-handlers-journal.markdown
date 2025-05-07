@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 0
+modal-id: -2
 title: Incident Handlers Journal
 img: handlersjournal.png
 alt: image-alt
